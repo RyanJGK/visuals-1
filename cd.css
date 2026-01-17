@@ -46,9 +46,9 @@ body {
 
 #cd {
   margin: 0;
-  font-size: 20px;
-  line-height: 1.1;
-  letter-spacing: 0.6px;
+  font-size: 18px;
+  line-height: 1.05;
+  letter-spacing: 0.5px;
   white-space: pre;
 }
 
